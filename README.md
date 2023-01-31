@@ -1,3 +1,4 @@
+test
 # HelloWorldGoServer
 GO + Docker + unit tests
 

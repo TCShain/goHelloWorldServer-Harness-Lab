@@ -5,3 +5,6 @@ asdasd
 trigger test 5
 
 pr trigger test 2
+
+
+SKIP CI test

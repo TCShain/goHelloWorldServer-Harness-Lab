@@ -7,7 +7,7 @@ trigger test 5
 pr trigger test 2
 
 
-SKIP CI test 7
+SKIP CI test 8
 
 readme isolation test
 

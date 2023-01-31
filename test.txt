@@ -2,4 +2,4 @@ A
 s
 asdasd
 
-trigger test
+trigger test 2
